@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="question_hint">Enter question</string>
+    <string name="answer_hint">Enter answer</string>
+</resources>
