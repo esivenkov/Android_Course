@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="question_hint">Введите вопрос</string>
+    <string name="answer_hint">Введите ответ</string>
+    <string name="exit_dialog_message">Вы действительно хотите выйти?</string>
+    <string name="exit_dialog_ok">Да</string>
+    <string name="exit_dialog_cancel">Нет</string>
+    <string name="exit_dialog_title">Выйти</string>
+    <string name="close_item">Закрыть приложение</string>
+</resources>

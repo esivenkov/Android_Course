@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="question_hint">Enter question</string>
+    <string name="answer_hint">Enter answer</string>
+    <string name="exit_dialog_message">Do you want to exit the app?</string>
+    <string name="exit_dialog_ok">Ok</string>
+    <string name="exit_dialog_cancel">Cancel</string>
+    <string name="exit_dialog_title">Exit</string>
+    <string name="close_item">Close app</string>
+</resources>
